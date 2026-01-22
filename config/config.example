@@ -1,0 +1,5 @@
+[DATABASE]
+HOST=localhost
+USER=admin
+PASS=tu_password_aqui
+PORT=5432
